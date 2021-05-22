@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <script src="https://unpkg.com/vue@3.0.11/dist/vue.global.prod.js" />
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" />
+  <script src="https://ysyk-hara.github.io/dragon-wing-inn-recipe/js/app.js" />
+</head>
+<body>
+  <table id="recipes">
+    <caption>{{ type }}</caption>
+    <thead>
+      <tr>
+        <th>name</th>
+        <th>category</th>
+        <th>life</th>
+        <th>awakening</th>
+        <th>breath</th>
+        <th>muscle</th>
+        <th>arm</th>
+        <th>technique</th>
+        <th>magic</th>
+        <th>luck</th>
+        <th>calory</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr v-for="recipe in recipes">
+        <td>{{ recipe['name'] }}</td>
+        <td>{{ recipe['category'] }}</td>
+        <td>{{ recipe['upStatus']['life'] }}</td>
+        <td>{{ recipe['upStatus']['awakening'] }}</td>
+        <td>{{ recipe['upStatus']['breath'] }}</td>
+        <td>{{ recipe['upStatus']['muscle'] }}</td>
+        <td>{{ recipe['upStatus']['arm'] }}</td>
+        <td>{{ recipe['upStatus']['technique'] }}</td>
+        <td>{{ recipe['upStatus']['magic'] }}</td>
+        <td>{{ recipe['upStatus']['luck'] }}</td>
+        <td>{{ recipe['upStatus']['calory'] }}</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>

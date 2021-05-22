@@ -1,0 +1,3125 @@
+{
+    "type": "cooking",
+    "recipe": [
+        {
+            "category": "主食",
+            "name": "塩むすび",
+            "calory": 180,
+            "upStatus": {
+                "life": 20,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 0,
+                "arm": 10,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "梅にぎり",
+            "calory": 350,
+            "upStatus": {
+                "life": 20,
+                "awakening": 10,
+                "breath": 40,
+                "muscle": 0,
+                "arm": 20,
+                "technique": 0,
+                "magic": 10,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "エビフライライス",
+            "calory": 630,
+            "upStatus": {
+                "life": 50,
+                "awakening": 20,
+                "breath": 50,
+                "muscle": 10,
+                "arm": 20,
+                "technique": 10,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ねじりパン",
+            "calory": 350,
+            "upStatus": {
+                "life": 30,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 20,
+                "arm": 0,
+                "technique": 20,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "バターロール",
+            "calory": 630,
+            "upStatus": {
+                "life": 70,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 10,
+                "arm": 20,
+                "technique": 10,
+                "magic": 0,
+                "luck": 20
+            }
+        },
+        {
+            "category": "主食",
+            "name": "げんこつパン",
+            "calory": 390,
+            "upStatus": {
+                "life": 45,
+                "awakening": 0,
+                "breath": 55,
+                "muscle": 0,
+                "arm": 10,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "バタール",
+            "calory": 350,
+            "upStatus": {
+                "life": 40,
+                "awakening": 0,
+                "breath": 40,
+                "muscle": 0,
+                "arm": 20,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "パン・ド・ミ",
+            "calory": 530,
+            "upStatus": {
+                "life": 40,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 10,
+                "arm": 20,
+                "technique": 0,
+                "magic": 0,
+                "luck": 10
+            }
+        },
+        {
+            "category": "主食",
+            "name": "クロワッサン",
+            "calory": 840,
+            "upStatus": {
+                "life": 90,
+                "awakening": 0,
+                "breath": 70,
+                "muscle": 0,
+                "arm": 10,
+                "technique": 0,
+                "magic": 0,
+                "luck": 30
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ベーコンエッグパイ",
+            "calory": 840,
+            "upStatus": {
+                "life": 70,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 30,
+                "arm": 25,
+                "technique": 15,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "バタートースト",
+            "calory": 630,
+            "upStatus": {
+                "life": 60,
+                "awakening": 0,
+                "breath": 50,
+                "muscle": 0,
+                "arm": 10,
+                "technique": 20,
+                "magic": 10,
+                "luck": 10
+            }
+        },
+        {
+            "category": "主食",
+            "name": "メロンパン",
+            "calory": 1720,
+            "upStatus": {
+                "life": 95,
+                "awakening": 70,
+                "breath": 75,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 70,
+                "luck": 20
+            }
+        },
+        {
+            "category": "主食",
+            "name": "チョココロネ",
+            "calory": 580,
+            "upStatus": {
+                "life": 75,
+                "awakening": 0,
+                "breath": 75,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ホットドッグ",
+            "calory": 890,
+            "upStatus": {
+                "life": 60,
+                "awakening": 0,
+                "breath": 75,
+                "muscle": 30,
+                "arm": 45,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "デブキングバーガー",
+            "calory": 2250,
+            "upStatus": {
+                "life": 90,
+                "awakening": 0,
+                "breath": 110,
+                "muscle": 40,
+                "arm": 60,
+                "technique": 35,
+                "magic": 25,
+                "luck": 10
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ミートパイ",
+            "calory": 2400,
+            "upStatus": {
+                "life": 105,
+                "awakening": 0,
+                "breath": 125,
+                "muscle": 65,
+                "arm": 70,
+                "technique": 15,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "BLTサンド",
+            "calory": 1720,
+            "upStatus": {
+                "life": 60,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 45,
+                "arm": 25,
+                "technique": 80,
+                "magic": 30,
+                "luck": 30
+            }
+        },
+        {
+            "category": "主食",
+            "name": "サブ道サンド",
+            "calory": 840,
+            "upStatus": {
+                "life": 50,
+                "awakening": 20,
+                "breath": 70,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 30,
+                "magic": 30,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "スシ",
+            "calory": 840,
+            "upStatus": {
+                "life": 40,
+                "awakening": 40,
+                "breath": 100,
+                "muscle": 0,
+                "arm": 20,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "チーズリゾット",
+            "calory": 1170,
+            "upStatus": {
+                "life": 130,
+                "awakening": 0,
+                "breath": 70,
+                "muscle": 0,
+                "arm": 20,
+                "technique": 0,
+                "magic": 0,
+                "luck": 40
+            }
+        },
+        {
+            "category": "主食",
+            "name": "きのこのリゾット",
+            "calory": 1400,
+            "upStatus": {
+                "life": 120,
+                "awakening": 0,
+                "breath": 70,
+                "muscle": 0,
+                "arm": 20,
+                "technique": 30,
+                "magic": 30,
+                "luck": 30
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ホットリゾット",
+            "calory": 1720,
+            "upStatus": {
+                "life": 60,
+                "awakening": 0,
+                "breath": 110,
+                "muscle": 55,
+                "arm": 80,
+                "technique": 0,
+                "magic": 0,
+                "luck": 25
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ニンニクのパスタ",
+            "calory": 730,
+            "upStatus": {
+                "life": 60,
+                "awakening": 0,
+                "breath": 50,
+                "muscle": 0,
+                "arm": 10,
+                "technique": 30,
+                "magic": 30,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ベーコンのチーズクリームパスタ",
+            "calory": 2250,
+            "upStatus": {
+                "life": 115,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 70,
+                "arm": 50,
+                "technique": 35,
+                "magic": 0,
+                "luck": 40
+            }
+        },
+        {
+            "category": "主食",
+            "name": "トマトソースパスタ",
+            "calory": 1340,
+            "upStatus": {
+                "life": 75,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 30,
+                "arm": 15,
+                "technique": 40,
+                "magic": 40,
+                "luck": 30
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ペスカトーレ",
+            "calory": 1110,
+            "upStatus": {
+                "life": 65,
+                "awakening": 40,
+                "breath": 90,
+                "muscle": 0,
+                "arm": 15,
+                "technique": 20,
+                "magic": 0,
+                "luck": 20
+            }
+        },
+        {
+            "category": "主食",
+            "name": "シャバシャバカレー",
+            "calory": 2720,
+            "upStatus": {
+                "life": 70,
+                "awakening": 0,
+                "breath": 120,
+                "muscle": 30,
+                "arm": 80,
+                "technique": 50,
+                "magic": 30,
+                "luck": 20
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ビーフカレー",
+            "calory": 1840,
+            "upStatus": {
+                "life": 70,
+                "awakening": 0,
+                "breath": 120,
+                "muscle": 50,
+                "arm": 100,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "エッグカレー",
+            "calory": 4400,
+            "upStatus": {
+                "life": 85,
+                "awakening": 0,
+                "breath": 135,
+                "muscle": 90,
+                "arm": 100,
+                "technique": 65,
+                "magic": 25,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ドンカツカレー",
+            "calory": 4520,
+            "upStatus": {
+                "life": 100,
+                "awakening": 0,
+                "breath": 125,
+                "muscle": 70,
+                "arm": 175,
+                "technique": 20,
+                "magic": 20,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ベーコンオムレツ",
+            "calory": 2720,
+            "upStatus": {
+                "life": 70,
+                "awakening": 0,
+                "breath": 70,
+                "muscle": 130,
+                "arm": 40,
+                "technique": 60,
+                "magic": 0,
+                "luck": 30
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ビーフシチューオムライス",
+            "calory": 3490,
+            "upStatus": {
+                "life": 85,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 110,
+                "arm": 75,
+                "technique": 85,
+                "magic": 0,
+                "luck": 25
+            }
+        },
+        {
+            "category": "主食",
+            "name": "カロリーバー",
+            "calory": 1000,
+            "upStatus": {
+                "life": 40,
+                "awakening": 25,
+                "breath": 40,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 0,
+                "magic": 25,
+                "luck": 50
+            }
+        },
+        {
+            "category": "主食",
+            "name": "抹茶カロリーバー",
+            "calory": 1840,
+            "upStatus": {
+                "life": 50,
+                "awakening": 35,
+                "breath": 50,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 35,
+                "magic": 35,
+                "luck": 85
+            }
+        },
+        {
+            "category": "主食",
+            "name": "カカオバー",
+            "calory": 2250,
+            "upStatus": {
+                "life": 50,
+                "awakening": 85,
+                "breath": 50,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 0,
+                "magic": 85,
+                "luck": 50
+            }
+        },
+        {
+            "category": "主食",
+            "name": "じゃがバター",
+            "calory": 260,
+            "upStatus": {
+                "life": 10,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 10,
+                "technique": 30,
+                "magic": 30,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ミックスピザ",
+            "calory": 2720,
+            "upStatus": {
+                "life": 100,
+                "awakening": 30,
+                "breath": 90,
+                "muscle": 30,
+                "arm": 30,
+                "technique": 40,
+                "magic": 40,
+                "luck": 40
+            }
+        },
+        {
+            "category": "主食",
+            "name": "オリーブのピザ",
+            "calory": 2900,
+            "upStatus": {
+                "life": 170,
+                "awakening": 35,
+                "breath": 70,
+                "muscle": 0,
+                "arm": 50,
+                "technique": 0,
+                "magic": 35,
+                "luck": 50
+            }
+        },
+        {
+            "category": "主食",
+            "name": "海鮮のピザ",
+            "calory": 4170,
+            "upStatus": {
+                "life": 155,
+                "awakening": 60,
+                "breath": 130,
+                "muscle": 0,
+                "arm": 35,
+                "technique": 25,
+                "magic": 0,
+                "luck": 75
+            }
+        },
+        {
+            "category": "主食",
+            "name": "カップ麺",
+            "calory": 890,
+            "upStatus": {
+                "life": 75,
+                "awakening": 0,
+                "breath": 45,
+                "muscle": 20,
+                "arm": 70,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "フライの盛り合わせ",
+            "calory": 1400,
+            "upStatus": {
+                "life": 60,
+                "awakening": 45,
+                "breath": 45,
+                "muscle": 0,
+                "arm": 60,
+                "technique": 45,
+                "magic": 45,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "日の丸弁当",
+            "calory": 1970,
+            "upStatus": {
+                "life": 40,
+                "awakening": 35,
+                "breath": 75,
+                "muscle": 35,
+                "arm": 35,
+                "technique": 65,
+                "magic": 30,
+                "luck": 35
+            }
+        },
+        {
+            "category": "主食",
+            "name": "味噌にぎり",
+            "calory": 1050,
+            "upStatus": {
+                "life": 65,
+                "awakening": 0,
+                "breath": 90,
+                "muscle": 0,
+                "arm": 25,
+                "technique": 30,
+                "magic": 0,
+                "luck": 30
+            }
+        },
+        {
+            "category": "主食",
+            "name": "トロ三点盛り",
+            "calory": 2100,
+            "upStatus": {
+                "life": 50,
+                "awakening": 100,
+                "breath": 180,
+                "muscle": 0,
+                "arm": 30,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "寿司",
+            "calory": 1050,
+            "upStatus": {
+                "life": 40,
+                "awakening": 55,
+                "breath": 120,
+                "muscle": 0,
+                "arm": 25,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "濃厚ヌードルスープ",
+            "calory": 2720,
+            "upStatus": {
+                "life": 55,
+                "awakening": 50,
+                "breath": 155,
+                "muscle": 0,
+                "arm": 50,
+                "technique": 45,
+                "magic": 45,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "プラチナたこ",
+            "calory": 2550,
+            "upStatus": {
+                "life": 135,
+                "awakening": 60,
+                "breath": 145,
+                "muscle": 0,
+                "arm": 50,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "辛み海鮮ヌードル",
+            "calory": 5010,
+            "upStatus": {
+                "life": 65,
+                "awakening": 75,
+                "breath": 220,
+                "muscle": 0,
+                "arm": 80,
+                "technique": 55,
+                "magic": 0,
+                "luck": 55
+            }
+        },
+        {
+            "category": "主食",
+            "name": "角煮丼",
+            "calory": 2900,
+            "upStatus": {
+                "life": 105,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 70,
+                "arm": 115,
+                "technique": 30,
+                "magic": 0,
+                "luck": 30
+            }
+        },
+        {
+            "category": "主食",
+            "name": "卵握り",
+            "calory": 1050,
+            "upStatus": {
+                "life": 45,
+                "awakening": 50,
+                "breath": 120,
+                "muscle": 0,
+                "arm": 25,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "NaN",
+            "calory": 2400,
+            "upStatus": {
+                "life": 165,
+                "awakening": 0,
+                "breath": 105,
+                "muscle": 0,
+                "arm": 65,
+                "technique": 0,
+                "magic": 0,
+                "luck": 45
+            }
+        },
+        {
+            "category": "主食",
+            "name": "いくら海軍艦隊",
+            "calory": 1840,
+            "upStatus": {
+                "life": 65,
+                "awakening": 70,
+                "breath": 170,
+                "muscle": 0,
+                "arm": 35,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ダルチキンカレー",
+            "calory": 4880,
+            "upStatus": {
+                "life": 100,
+                "awakening": 0,
+                "breath": 120,
+                "muscle": 110,
+                "arm": 145,
+                "technique": 0,
+                "magic": 0,
+                "luck": 65
+            }
+        },
+        {
+            "category": "主食",
+            "name": "激辛黒餡かけ麺",
+            "calory": 5630,
+            "upStatus": {
+                "life": 90,
+                "awakening": 0,
+                "breath": 185,
+                "muscle": 115,
+                "arm": 155,
+                "technique": 0,
+                "magic": 0,
+                "luck": 55
+            }
+        },
+        {
+            "category": "主食",
+            "name": "ペンネ＆マッシュ",
+            "calory": 5130,
+            "upStatus": {
+                "life": 165,
+                "awakening": 0,
+                "breath": 100,
+                "muscle": 55,
+                "arm": 65,
+                "technique": 115,
+                "magic": 0,
+                "luck": 60
+            }
+        },
+        {
+            "category": "主食",
+            "name": "中華饅づくし",
+            "calory": 6010,
+            "upStatus": {
+                "life": 80,
+                "awakening": 0,
+                "breath": 135,
+                "muscle": 130,
+                "arm": 120,
+                "technique": 50,
+                "magic": 0,
+                "luck": 115
+            }
+        },
+        {
+            "category": "主食",
+            "name": "石焼ビビン丼",
+            "calory": 7200,
+            "upStatus": {
+                "life": 65,
+                "awakening": 0,
+                "breath": 130,
+                "muscle": 100,
+                "arm": 115,
+                "technique": 180,
+                "magic": 70,
+                "luck": 60
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "ミートジャーキー",
+            "calory": 180,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 10,
+                "muscle": 20,
+                "arm": 30,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "すね肉のワイルド焼き",
+            "calory": 480,
+            "upStatus": {
+                "life": 15,
+                "awakening": 0,
+                "breath": 15,
+                "muscle": 35,
+                "arm": 65,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "マンガ肉",
+            "calory": 1000,
+            "upStatus": {
+                "life": 40,
+                "awakening": 0,
+                "breath": 15,
+                "muscle": 60,
+                "arm": 115,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "キングオブミート",
+            "calory": 1970,
+            "upStatus": {
+                "life": 50,
+                "awakening": 0,
+                "breath": 25,
+                "muscle": 90,
+                "arm": 165,
+                "technique": 10,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "魔獣肉の燻製",
+            "calory": 1170,
+            "upStatus": {
+                "life": 35,
+                "awakening": 20,
+                "breath": 0,
+                "muscle": 50,
+                "arm": 85,
+                "technique": 25,
+                "magic": 20,
+                "luck": 25
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "ローストビーフ",
+            "calory": 1400,
+            "upStatus": {
+                "life": 40,
+                "awakening": 0,
+                "breath": 20,
+                "muscle": 60,
+                "arm": 120,
+                "technique": 30,
+                "magic": 0,
+                "luck": 30
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "丸ごとローストチキン",
+            "calory": 2250,
+            "upStatus": {
+                "life": 25,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 80,
+                "arm": 105,
+                "technique": 80,
+                "magic": 35,
+                "luck": 45
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "骨付きソーセージ",
+            "calory": 680,
+            "upStatus": {
+                "life": 10,
+                "awakening": 0,
+                "breath": 35,
+                "muscle": 40,
+                "arm": 85,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "サイコロステーキ",
+            "calory": 480,
+            "upStatus": {
+                "life": 10,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 35,
+                "arm": 45,
+                "technique": 20,
+                "magic": 0,
+                "luck": 20
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "もも肉のステーキ",
+            "calory": 1340,
+            "upStatus": {
+                "life": 20,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 65,
+                "arm": 65,
+                "technique": 60,
+                "magic": 35,
+                "luck": 45
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "ラムステーキ",
+            "calory": 1340,
+            "upStatus": {
+                "life": 55,
+                "awakening": 0,
+                "breath": 25,
+                "muscle": 55,
+                "arm": 85,
+                "technique": 35,
+                "magic": 0,
+                "luck": 35
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "A5ステーキ",
+            "calory": 3080,
+            "upStatus": {
+                "life": 40,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 140,
+                "arm": 185,
+                "technique": 0,
+                "magic": 0,
+                "luck": 25
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "チーズinハンバーグ",
+            "calory": 1500,
+            "upStatus": {
+                "life": 70,
+                "awakening": 0,
+                "breath": 50,
+                "muscle": 65,
+                "arm": 85,
+                "technique": 0,
+                "magic": 0,
+                "luck": 40
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "トカゲの蒲焼き",
+            "calory": 580,
+            "upStatus": {
+                "life": 0,
+                "awakening": 40,
+                "breath": 0,
+                "muscle": 35,
+                "arm": 35,
+                "technique": 0,
+                "magic": 40,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "フライドチキン",
+            "calory": 1170,
+            "upStatus": {
+                "life": 50,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 50,
+                "arm": 130,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "ベーコンエッグ",
+            "calory": 440,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 60,
+                "arm": 30,
+                "technique": 30,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "ボンレスハム",
+            "calory": 940,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 40,
+                "muscle": 70,
+                "arm": 110,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "BBQ",
+            "calory": 2250,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 65,
+                "muscle": 75,
+                "arm": 140,
+                "technique": 45,
+                "magic": 0,
+                "luck": 45
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "山もり酢豚",
+            "calory": 5010,
+            "upStatus": {
+                "life": 0,
+                "awakening": 95,
+                "breath": 40,
+                "muscle": 95,
+                "arm": 135,
+                "technique": 45,
+                "magic": 140,
+                "luck": 0
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "グリルステーキ",
+            "calory": 2100,
+            "upStatus": {
+                "life": 35,
+                "awakening": 0,
+                "breath": 45,
+                "muscle": 65,
+                "arm": 145,
+                "technique": 35,
+                "magic": 0,
+                "luck": 35
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "肉つくね団子",
+            "calory": 1500,
+            "upStatus": {
+                "life": 0,
+                "awakening": 70,
+                "breath": 70,
+                "muscle": 50,
+                "arm": 50,
+                "technique": 35,
+                "magic": 0,
+                "luck": 35
+            }
+        },
+        {
+            "category": "肉料理",
+            "name": "ごろごろブロックステーキ",
+            "calory": 6140,
+            "upStatus": {
+                "life": 75,
+                "awakening": 0,
+                "breath": 80,
+                "muscle": 110,
+                "arm": 265,
+                "technique": 55,
+                "magic": 55,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "エビスナック",
+            "calory": 2100,
+            "upStatus": {
+                "life": 90,
+                "awakening": 50,
+                "breath": 80,
+                "muscle": 40,
+                "arm": 60,
+                "technique": 40,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "エビフリァァァァ",
+            "calory": 5630,
+            "upStatus": {
+                "life": 125,
+                "awakening": 75,
+                "breath": 160,
+                "muscle": 60,
+                "arm": 120,
+                "technique": 60,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "貝のバター焼き",
+            "calory": 300,
+            "upStatus": {
+                "life": 20,
+                "awakening": 25,
+                "breath": 25,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 0,
+                "luck": 20
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "串刺し焼き魚",
+            "calory": 350,
+            "upStatus": {
+                "life": 0,
+                "awakening": 35,
+                "breath": 50,
+                "muscle": 0,
+                "arm": 15,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "黄金魚の串焼き",
+            "calory": 840,
+            "upStatus": {
+                "life": 0,
+                "awakening": 100,
+                "breath": 55,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 45,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "あんかけムニエル",
+            "calory": 1170,
+            "upStatus": {
+                "life": 15,
+                "awakening": 85,
+                "breath": 65,
+                "muscle": 0,
+                "arm": 15,
+                "technique": 30,
+                "magic": 50,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "魚のオイルホイル焼き",
+            "calory": 1500,
+            "upStatus": {
+                "life": 35,
+                "awakening": 65,
+                "breath": 65,
+                "muscle": 0,
+                "arm": 35,
+                "technique": 55,
+                "magic": 25,
+                "luck": 30
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "ブリっと丸焼き",
+            "calory": 1970,
+            "upStatus": {
+                "life": 25,
+                "awakening": 110,
+                "breath": 90,
+                "muscle": 0,
+                "arm": 25,
+                "technique": 40,
+                "magic": 60,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "空色の刺身",
+            "calory": 1340,
+            "upStatus": {
+                "life": 0,
+                "awakening": 110,
+                "breath": 75,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 35,
+                "magic": 35,
+                "luck": 35
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "白身魚のカルパッチョ",
+            "calory": 1840,
+            "upStatus": {
+                "life": 60,
+                "awakening": 60,
+                "breath": 85,
+                "muscle": 0,
+                "arm": 35,
+                "technique": 50,
+                "magic": 0,
+                "luck": 50
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "サーモンのカルパッチョ",
+            "calory": 2100,
+            "upStatus": {
+                "life": 75,
+                "awakening": 75,
+                "breath": 105,
+                "muscle": 30,
+                "arm": 45,
+                "technique": 0,
+                "magic": 0,
+                "luck": 30
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "虹貝の塩茹で",
+            "calory": 1050,
+            "upStatus": {
+                "life": 25,
+                "awakening": 80,
+                "breath": 95,
+                "muscle": 0,
+                "arm": 40,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "フィッシュステーキ",
+            "calory": 1840,
+            "upStatus": {
+                "life": 80,
+                "awakening": 60,
+                "breath": 60,
+                "muscle": 0,
+                "arm": 30,
+                "technique": 30,
+                "magic": 0,
+                "luck": 80
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "ダブルピースグラタン",
+            "calory": 3930,
+            "upStatus": {
+                "life": 100,
+                "awakening": 80,
+                "breath": 80,
+                "muscle": 0,
+                "arm": 35,
+                "technique": 50,
+                "magic": 50,
+                "luck": 65
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "茹でタコ足",
+            "calory": 220,
+            "upStatus": {
+                "life": 0,
+                "awakening": 35,
+                "breath": 35,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "輪切りサーモン",
+            "calory": 350,
+            "upStatus": {
+                "life": 15,
+                "awakening": 35,
+                "breath": 35,
+                "muscle": 0,
+                "arm": 15,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "エスカルゴのソテー",
+            "calory": 1610,
+            "upStatus": {
+                "life": 60,
+                "awakening": 70,
+                "breath": 100,
+                "muscle": 0,
+                "arm": 90,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "北海のクラブグラタン",
+            "calory": 3490,
+            "upStatus": {
+                "life": 55,
+                "awakening": 100,
+                "breath": 100,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 65,
+                "magic": 65,
+                "luck": 55
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "ドデカ兜焼き",
+            "calory": 4280,
+            "upStatus": {
+                "life": 45,
+                "awakening": 100,
+                "breath": 150,
+                "muscle": 0,
+                "arm": 95,
+                "technique": 50,
+                "magic": 0,
+                "luck": 50
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "何かのさなぎ",
+            "calory": 3080,
+            "upStatus": {
+                "life": 0,
+                "awakening": 50,
+                "breath": 110,
+                "muscle": 60,
+                "arm": 120,
+                "technique": 40,
+                "magic": 0,
+                "luck": 40
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "丸茹でズワイ",
+            "calory": 3280,
+            "upStatus": {
+                "life": 0,
+                "awakening": 140,
+                "breath": 130,
+                "muscle": 0,
+                "arm": 30,
+                "technique": 45,
+                "magic": 40,
+                "luck": 45
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "魚の煮付け",
+            "calory": 3280,
+            "upStatus": {
+                "life": 40,
+                "awakening": 140,
+                "breath": 120,
+                "muscle": 0,
+                "arm": 75,
+                "technique": 0,
+                "magic": 55,
+                "luck": 0
+            }
+        },
+        {
+            "category": "魚料理",
+            "name": "魚卵のドリア",
+            "calory": 5500,
+            "upStatus": {
+                "life": 125,
+                "awakening": 70,
+                "breath": 135,
+                "muscle": 60,
+                "arm": 0,
+                "technique": 40,
+                "magic": 40,
+                "luck": 120
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "太古風サラダ",
+            "calory": 390,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 15,
+                "arm": 0,
+                "technique": 40,
+                "magic": 15,
+                "luck": 40
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "ソースで味わうスティック野菜",
+            "calory": 730,
+            "upStatus": {
+                "life": 0,
+                "awakening": 15,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 75,
+                "magic": 55,
+                "luck": 35
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "シーザーサラダ",
+            "calory": 1400,
+            "upStatus": {
+                "life": 30,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 85,
+                "magic": 40,
+                "luck": 110
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "マンドラのシロップがけ",
+            "calory": 1050,
+            "upStatus": {
+                "life": 0,
+                "awakening": 25,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 95,
+                "magic": 80,
+                "luck": 40
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "マンドラの日干し",
+            "calory": 940,
+            "upStatus": {
+                "life": 0,
+                "awakening": 30,
+                "breath": 15,
+                "muscle": 0,
+                "arm": 15,
+                "technique": 65,
+                "magic": 95,
+                "luck": 0
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "マンドラの薬漬け",
+            "calory": 1720,
+            "upStatus": {
+                "life": 0,
+                "awakening": 30,
+                "breath": 15,
+                "muscle": 0,
+                "arm": 15,
+                "technique": 120,
+                "magic": 105,
+                "luck": 45
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "ジャンボ蜂の子のシロップがけ",
+            "calory": 2250,
+            "upStatus": {
+                "life": 0,
+                "awakening": 110,
+                "breath": 0,
+                "muscle": 75,
+                "arm": 0,
+                "technique": 30,
+                "magic": 110,
+                "luck": 45
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "病院お見舞いセット",
+            "calory": 1970,
+            "upStatus": {
+                "life": 0,
+                "awakening": 130,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 45,
+                "magic": 175,
+                "luck": 0
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "マツタケの香ばし焼き",
+            "calory": 480,
+            "upStatus": {
+                "life": 20,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 20,
+                "technique": 45,
+                "magic": 0,
+                "luck": 45
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "ゴーヤチャンプル",
+            "calory": 1110,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 75,
+                "arm": 30,
+                "technique": 95,
+                "magic": 50,
+                "luck": 0
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "漬物",
+            "calory": 390,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 0,
+                "arm": 30,
+                "technique": 25,
+                "magic": 25,
+                "luck": 0
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "野菜鍋",
+            "calory": 2900,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 95,
+                "arm": 45,
+                "technique": 110,
+                "magic": 50,
+                "luck": 110
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "エリンギャーの照り焼き",
+            "calory": 1610,
+            "upStatus": {
+                "life": 40,
+                "awakening": 35,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 40,
+                "technique": 85,
+                "magic": 35,
+                "luck": 85
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "ボイルキャロットサラダ",
+            "calory": 4280,
+            "upStatus": {
+                "life": 0,
+                "awakening": 45,
+                "breath": 0,
+                "muscle": 55,
+                "arm": 0,
+                "technique": 145,
+                "magic": 130,
+                "luck": 115
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "ほうれん草のキッシュ",
+            "calory": 4520,
+            "upStatus": {
+                "life": 50,
+                "awakening": 0,
+                "breath": 40,
+                "muscle": 95,
+                "arm": 75,
+                "technique": 130,
+                "magic": 0,
+                "luck": 120
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "トマトとモッツアレラのサラダ",
+            "calory": 5500,
+            "upStatus": {
+                "life": 115,
+                "awakening": 0,
+                "breath": 40,
+                "muscle": 0,
+                "arm": 85,
+                "technique": 140,
+                "magic": 65,
+                "luck": 145
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "一人前サラダパック",
+            "calory": 2400,
+            "upStatus": {
+                "life": 40,
+                "awakening": 0,
+                "breath": 40,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 100,
+                "magic": 45,
+                "luck": 105
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "ピリ辛キュリー漬け",
+            "calory": 1280,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 75,
+                "muscle": 0,
+                "arm": 75,
+                "technique": 65,
+                "magic": 65,
+                "luck": 0
+            }
+        },
+        {
+            "category": "野菜料理",
+            "name": "椎茸のつくねサンド",
+            "calory": 4050,
+            "upStatus": {
+                "life": 0,
+                "awakening": 60,
+                "breath": 115,
+                "muscle": 0,
+                "arm": 55,
+                "technique": 120,
+                "magic": 40,
+                "luck": 80
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "豆のスープ",
+            "calory": 260,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 25,
+                "arm": 0,
+                "technique": 15,
+                "magic": 0,
+                "luck": 40
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "コーンポタージュ",
+            "calory": 530,
+            "upStatus": {
+                "life": 55,
+                "awakening": 0,
+                "breath": 25,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 15,
+                "magic": 15,
+                "luck": 30
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "ホットミネストローネ",
+            "calory": 630,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 50,
+                "arm": 50,
+                "technique": 0,
+                "magic": 0,
+                "luck": 30
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "カボチャのポタージュ",
+            "calory": 1110,
+            "upStatus": {
+                "life": 35,
+                "awakening": 25,
+                "breath": 35,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 65,
+                "magic": 90,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "キノコのポタージュ",
+            "calory": 890,
+            "upStatus": {
+                "life": 30,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 30,
+                "arm": 0,
+                "technique": 75,
+                "magic": 0,
+                "luck": 75
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "薬草のスープ",
+            "calory": 680,
+            "upStatus": {
+                "life": 0,
+                "awakening": 25,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 60,
+                "magic": 55,
+                "luck": 30
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "魔物のミルクスープ",
+            "calory": 840,
+            "upStatus": {
+                "life": 65,
+                "awakening": 35,
+                "breath": 35,
+                "muscle": 0,
+                "arm": 30,
+                "technique": 0,
+                "magic": 0,
+                "luck": 35
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "チキンのクリームスープ",
+            "calory": 1970,
+            "upStatus": {
+                "life": 50,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 85,
+                "arm": 60,
+                "technique": 40,
+                "magic": 40,
+                "luck": 75
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "北のキャロットスープ",
+            "calory": 2520,
+            "upStatus": {
+                "life": 50,
+                "awakening": 35,
+                "breath": 0,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 110,
+                "magic": 110,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "ビーフシチュー",
+            "calory": 3080,
+            "upStatus": {
+                "life": 35,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 115,
+                "arm": 140,
+                "technique": 30,
+                "magic": 30,
+                "luck": 40
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "激辛魔女鍋",
+            "calory": 1110,
+            "upStatus": {
+                "life": 0,
+                "awakening": 25,
+                "breath": 125,
+                "muscle": 0,
+                "arm": 100,
+                "technique": 0,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "なめこ汁",
+            "calory": 780,
+            "upStatus": {
+                "life": 30,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 30,
+                "magic": 0,
+                "luck": 65
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "フォンデュパン",
+            "calory": 5380,
+            "upStatus": {
+                "life": 100,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 150,
+                "arm": 50,
+                "technique": 140,
+                "magic": 40,
+                "luck": 100
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "もやしスープ",
+            "calory": 730,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 25,
+                "muscle": 35,
+                "arm": 25,
+                "technique": 30,
+                "magic": 0,
+                "luck": 65
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "クラムチャウダー",
+            "calory": 5010,
+            "upStatus": {
+                "life": 100,
+                "awakening": 75,
+                "breath": 75,
+                "muscle": 45,
+                "arm": 85,
+                "technique": 55,
+                "magic": 55,
+                "luck": 60
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "ケチャップ",
+            "calory": 1220,
+            "upStatus": {
+                "life": 0,
+                "awakening": 30,
+                "breath": 40,
+                "muscle": 0,
+                "arm": 40,
+                "technique": 65,
+                "magic": 95,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "チーズフォンデュ",
+            "calory": 5880,
+            "upStatus": {
+                "life": 160,
+                "awakening": 40,
+                "breath": 50,
+                "muscle": 55,
+                "arm": 55,
+                "technique": 55,
+                "magic": 95,
+                "luck": 110
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "タコの海原スープ",
+            "calory": 3490,
+            "upStatus": {
+                "life": 0,
+                "awakening": 75,
+                "breath": 125,
+                "muscle": 55,
+                "arm": 50,
+                "technique": 40,
+                "magic": 40,
+                "luck": 55
+            }
+        },
+        {
+            "category": "スープ",
+            "name": "でかアスパラクリームスープ",
+            "calory": 6270,
+            "upStatus": {
+                "life": 115,
+                "awakening": 0,
+                "breath": 55,
+                "muscle": 0,
+                "arm": 55,
+                "technique": 155,
+                "magic": 70,
+                "luck": 200
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "マヨネーズ",
+            "calory": 1340,
+            "upStatus": {
+                "life": 75,
+                "awakening": 0,
+                "breath": 35,
+                "muscle": 35,
+                "arm": 110,
+                "technique": 35,
+                "magic": 0,
+                "luck": 0
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "紅茶",
+            "calory": 110,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 20,
+                "magic": 0,
+                "luck": 20
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ブレンドコーヒー",
+            "calory": 300,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 0,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 10,
+                "magic": 10,
+                "luck": 35
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ホットココア",
+            "calory": 440,
+            "upStatus": {
+                "life": 0,
+                "awakening": 60,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 60,
+                "luck": 0
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "唐辛子茶",
+            "calory": 390,
+            "upStatus": {
+                "life": 0,
+                "awakening": 0,
+                "breath": 30,
+                "muscle": 0,
+                "arm": 30,
+                "technique": 25,
+                "magic": 0,
+                "luck": 25
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "カフェラッテ",
+            "calory": 780,
+            "upStatus": {
+                "life": 25,
+                "awakening": 70,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 70,
+                "luck": 25
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "風呂上り牛乳",
+            "calory": 300,
+            "upStatus": {
+                "life": 30,
+                "awakening": 15,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 15,
+                "luck": 30
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "アイスティー",
+            "calory": 440,
+            "upStatus": {
+                "life": 0,
+                "awakening": 15,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 45,
+                "magic": 15,
+                "luck": 45
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "第四のビール",
+            "calory": 840,
+            "upStatus": {
+                "life": 50,
+                "awakening": 25,
+                "breath": 75,
+                "muscle": 0,
+                "arm": 25,
+                "technique": 0,
+                "magic": 25,
+                "luck": 0
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ココナッツジュース",
+            "calory": 1000,
+            "upStatus": {
+                "life": 20,
+                "awakening": 95,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 95,
+                "luck": 20
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "丸ごとパインジュース",
+            "calory": 1500,
+            "upStatus": {
+                "life": 0,
+                "awakening": 120,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 35,
+                "magic": 155,
+                "luck": 0
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "青汁",
+            "calory": 2100,
+            "upStatus": {
+                "life": 0,
+                "awakening": 40,
+                "breath": 0,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 105,
+                "magic": 75,
+                "luck": 105
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "タピオカミルクティー",
+            "calory": 1840,
+            "upStatus": {
+                "life": 110,
+                "awakening": 0,
+                "breath": 60,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 60,
+                "magic": 0,
+                "luck": 110
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "タピオカスムージー",
+            "calory": 1970,
+            "upStatus": {
+                "life": 135,
+                "awakening": 40,
+                "breath": 60,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 40,
+                "luck": 75
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "レインボー★タピオカ",
+            "calory": 5380,
+            "upStatus": {
+                "life": 135,
+                "awakening": 110,
+                "breath": 75,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 45,
+                "magic": 155,
+                "luck": 60
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ヴァンパイアカシス",
+            "calory": 2400,
+            "upStatus": {
+                "life": 40,
+                "awakening": 75,
+                "breath": 40,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 75,
+                "magic": 150,
+                "luck": 0
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ブルーワイン",
+            "calory": 1400,
+            "upStatus": {
+                "life": 55,
+                "awakening": 40,
+                "breath": 90,
+                "muscle": 0,
+                "arm": 35,
+                "technique": 20,
+                "magic": 40,
+                "luck": 20
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "抹茶ラテ",
+            "calory": 1610,
+            "upStatus": {
+                "life": 50,
+                "awakening": 45,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 65,
+                "magic": 45,
+                "luck": 115
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "キャラメルマキアート",
+            "calory": 4050,
+            "upStatus": {
+                "life": 60,
+                "awakening": 75,
+                "breath": 0,
+                "muscle": 100,
+                "arm": 0,
+                "technique": 0,
+                "magic": 75,
+                "luck": 160
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "カフェモカ",
+            "calory": 1970,
+            "upStatus": {
+                "life": 45,
+                "awakening": 65,
+                "breath": 0,
+                "muscle": 65,
+                "arm": 0,
+                "technique": 0,
+                "magic": 65,
+                "luck": 110
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "レモネード",
+            "calory": 580,
+            "upStatus": {
+                "life": 0,
+                "awakening": 75,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 75,
+                "luck": 0
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ラッシー",
+            "calory": 2550,
+            "upStatus": {
+                "life": 125,
+                "awakening": 70,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 45,
+                "technique": 0,
+                "magic": 70,
+                "luck": 80
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "コーラ",
+            "calory": 680,
+            "upStatus": {
+                "life": 0,
+                "awakening": 55,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 30,
+                "magic": 55,
+                "luck": 30
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "メロンフロート",
+            "calory": 3490,
+            "upStatus": {
+                "life": 60,
+                "awakening": 160,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 160,
+                "luck": 60
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ミルクティー",
+            "calory": 680,
+            "upStatus": {
+                "life": 35,
+                "awakening": 15,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 35,
+                "magic": 15,
+                "luck": 70
+            }
+        },
+        {
+            "category": "ドリンク",
+            "name": "ベリージュース",
+            "calory": 630,
+            "upStatus": {
+                "life": 0,
+                "awakening": 55,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 25,
+                "magic": 80,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "チョコバナナ",
+            "calory": 680,
+            "upStatus": {
+                "life": 0,
+                "awakening": 85,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 85,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "アップルハニー",
+            "calory": 630,
+            "upStatus": {
+                "life": 0,
+                "awakening": 80,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 80,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ゴールデンアップル",
+            "calory": 1340,
+            "upStatus": {
+                "life": 0,
+                "awakening": 145,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 145,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "アップルパイ",
+            "calory": 2400,
+            "upStatus": {
+                "life": 50,
+                "awakening": 110,
+                "breath": 50,
+                "muscle": 30,
+                "arm": 0,
+                "technique": 30,
+                "magic": 110,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "チーズケーキ",
+            "calory": 1340,
+            "upStatus": {
+                "life": 50,
+                "awakening": 50,
+                "breath": 0,
+                "muscle": 45,
+                "arm": 0,
+                "technique": 45,
+                "magic": 50,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "レアチーズケーキ",
+            "calory": 3490,
+            "upStatus": {
+                "life": 50,
+                "awakening": 110,
+                "breath": 0,
+                "muscle": 60,
+                "arm": 0,
+                "technique": 60,
+                "magic": 110,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ショートケーキ",
+            "calory": 4050,
+            "upStatus": {
+                "life": 50,
+                "awakening": 135,
+                "breath": 0,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 50,
+                "magic": 135,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "チョコレート蒸しパン",
+            "calory": 890,
+            "upStatus": {
+                "life": 35,
+                "awakening": 70,
+                "breath": 35,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 70,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "クリスタルマウンテン",
+            "calory": 1840,
+            "upStatus": {
+                "life": 50,
+                "awakening": 85,
+                "breath": 50,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 35,
+                "magic": 85,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "フォンダンショコラ",
+            "calory": 4880,
+            "upStatus": {
+                "life": 120,
+                "awakening": 115,
+                "breath": 70,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 35,
+                "magic": 115,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ミックスクッキー",
+            "calory": 940,
+            "upStatus": {
+                "life": 35,
+                "awakening": 50,
+                "breath": 35,
+                "muscle": 25,
+                "arm": 0,
+                "technique": 25,
+                "magic": 50,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "シュークリーム",
+            "calory": 1970,
+            "upStatus": {
+                "life": 85,
+                "awakening": 50,
+                "breath": 45,
+                "muscle": 40,
+                "arm": 0,
+                "technique": 40,
+                "magic": 50,
+                "luck": 40
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "コーヒーシュー",
+            "calory": 3700,
+            "upStatus": {
+                "life": 110,
+                "awakening": 65,
+                "breath": 60,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 50,
+                "magic": 65,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "フルーツクレープ",
+            "calory": 3700,
+            "upStatus": {
+                "life": 65,
+                "awakening": 100,
+                "breath": 0,
+                "muscle": 60,
+                "arm": 0,
+                "technique": 60,
+                "magic": 100,
+                "luck": 65
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "北海道ミルクソフト",
+            "calory": 2100,
+            "upStatus": {
+                "life": 120,
+                "awakening": 60,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 45,
+                "technique": 0,
+                "magic": 60,
+                "luck": 75
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ギャラクシーソフト",
+            "calory": 4640,
+            "upStatus": {
+                "life": 130,
+                "awakening": 70,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 65,
+                "technique": 60,
+                "magic": 130,
+                "luck": 65
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "パンケーキ",
+            "calory": 1970,
+            "upStatus": {
+                "life": 95,
+                "awakening": 50,
+                "breath": 65,
+                "muscle": 30,
+                "arm": 0,
+                "technique": 30,
+                "magic": 50,
+                "luck": 30
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ドリームパフェ",
+            "calory": 5630,
+            "upStatus": {
+                "life": 110,
+                "awakening": 120,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 50,
+                "technique": 70,
+                "magic": 190,
+                "luck": 60
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "キングプリン",
+            "calory": 3930,
+            "upStatus": {
+                "life": 50,
+                "awakening": 110,
+                "breath": 0,
+                "muscle": 70,
+                "arm": 0,
+                "technique": 70,
+                "magic": 110,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "フルーツタルト",
+            "calory": 4520,
+            "upStatus": {
+                "life": 50,
+                "awakening": 155,
+                "breath": 0,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 50,
+                "magic": 155,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "モンブラン",
+            "calory": 2550,
+            "upStatus": {
+                "life": 45,
+                "awakening": 65,
+                "breath": 0,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 85,
+                "magic": 115,
+                "luck": 45
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "抹茶スフレ",
+            "calory": 2400,
+            "upStatus": {
+                "life": 50,
+                "awakening": 40,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 100,
+                "magic": 75,
+                "luck": 115
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "イチゴミルフィーユ",
+            "calory": 4640,
+            "upStatus": {
+                "life": 65,
+                "awakening": 145,
+                "breath": 0,
+                "muscle": 50,
+                "arm": 0,
+                "technique": 50,
+                "magic": 145,
+                "luck": 65
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ベリームースケーキ",
+            "calory": 2720,
+            "upStatus": {
+                "life": 45,
+                "awakening": 100,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 55,
+                "magic": 155,
+                "luck": 45
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "紅茶のシフォンケーキ",
+            "calory": 1840,
+            "upStatus": {
+                "life": 35,
+                "awakening": 45,
+                "breath": 35,
+                "muscle": 35,
+                "arm": 0,
+                "technique": 90,
+                "magic": 45,
+                "luck": 55
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "プリン",
+            "calory": 680,
+            "upStatus": {
+                "life": 30,
+                "awakening": 25,
+                "breath": 0,
+                "muscle": 30,
+                "arm": 0,
+                "technique": 30,
+                "magic": 25,
+                "luck": 30
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "レモンシャーベット",
+            "calory": 680,
+            "upStatus": {
+                "life": 25,
+                "awakening": 60,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 60,
+                "luck": 25
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "イチゴパンナコッタ",
+            "calory": 1840,
+            "upStatus": {
+                "life": 75,
+                "awakening": 95,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 25,
+                "technique": 0,
+                "magic": 95,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "エクレア",
+            "calory": 2250,
+            "upStatus": {
+                "life": 90,
+                "awakening": 35,
+                "breath": 45,
+                "muscle": 60,
+                "arm": 0,
+                "technique": 60,
+                "magic": 35,
+                "luck": 45
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ドーナツ",
+            "calory": 1610,
+            "upStatus": {
+                "life": 85,
+                "awakening": 30,
+                "breath": 0,
+                "muscle": 45,
+                "arm": 50,
+                "technique": 45,
+                "magic": 30,
+                "luck": 35
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "チョコドーナツ",
+            "calory": 4280,
+            "upStatus": {
+                "life": 110,
+                "awakening": 90,
+                "breath": 0,
+                "muscle": 45,
+                "arm": 60,
+                "technique": 45,
+                "magic": 90,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "スイートポテト",
+            "calory": 1970,
+            "upStatus": {
+                "life": 65,
+                "awakening": 65,
+                "breath": 65,
+                "muscle": 45,
+                "arm": 0,
+                "technique": 45,
+                "magic": 65,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "チョコクリームクレープ",
+            "calory": 3490,
+            "upStatus": {
+                "life": 110,
+                "awakening": 50,
+                "breath": 45,
+                "muscle": 60,
+                "arm": 0,
+                "technique": 60,
+                "magic": 50,
+                "luck": 65
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "みたらし団子",
+            "calory": 1220,
+            "upStatus": {
+                "life": 70,
+                "awakening": 25,
+                "breath": 110,
+                "muscle": 0,
+                "arm": 40,
+                "technique": 0,
+                "magic": 25,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ホールチーズ",
+            "calory": 840,
+            "upStatus": {
+                "life": 85,
+                "awakening": 0,
+                "breath": 15,
+                "muscle": 0,
+                "arm": 45,
+                "technique": 0,
+                "magic": 0,
+                "luck": 55
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ミセス・ドーナツ",
+            "calory": 4760,
+            "upStatus": {
+                "life": 110,
+                "awakening": 65,
+                "breath": 0,
+                "muscle": 90,
+                "arm": 60,
+                "technique": 90,
+                "magic": 65,
+                "luck": 50
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "氷イチゴ",
+            "calory": 3080,
+            "upStatus": {
+                "life": 45,
+                "awakening": 165,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 0,
+                "magic": 165,
+                "luck": 45
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ラブ・イズ・ブルー",
+            "calory": 4520,
+            "upStatus": {
+                "life": 0,
+                "awakening": 155,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 100,
+                "magic": 255,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "パンプキング",
+            "calory": 5380,
+            "upStatus": {
+                "life": 60,
+                "awakening": 70,
+                "breath": 0,
+                "muscle": 95,
+                "arm": 0,
+                "technique": 160,
+                "magic": 135,
+                "luck": 60
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "カラフルマカロン",
+            "calory": 5010,
+            "upStatus": {
+                "life": 60,
+                "awakening": 115,
+                "breath": 60,
+                "muscle": 100,
+                "arm": 0,
+                "technique": 100,
+                "magic": 115,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "ドラゴンフルーツボート",
+            "calory": 5010,
+            "upStatus": {
+                "life": 0,
+                "awakening": 205,
+                "breath": 0,
+                "muscle": 0,
+                "arm": 0,
+                "technique": 70,
+                "magic": 275,
+                "luck": 0
+            }
+        },
+        {
+            "category": "スイーツ",
+            "name": "マーメイどら焼き",
+            "calory": 4640,
+            "upStatus": {
+                "life": 55,
+                "awakening": 140,
+                "breath": 55,
+                "muscle": 65,
+                "arm": 0,
+                "technique": 0,
+                "magic": 140,
+                "luck": 65
+            }
+        }
+    ]
+}
