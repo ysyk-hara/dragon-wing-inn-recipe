@@ -4,7 +4,24 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <script src="https://unpkg.com/vue@3.0.11/dist/vue.global.prod.js" />
   <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" />
-  <script src="https://ysyk-hara.github.io/dragon-wing-inn-recipe/js/app.js" />
+  <script>
+  const recipeUrl = 'https://ysyk-hara.github.io/dragon-wing-inn-recipe/json/cookingRecipes.json';
+  axios.get(recipeUrl)
+    .then(function (response) {
+      console.log('type : ' + response.data.type);
+      Vue.createApp({
+        data() {
+          return {
+            type : response.data.type,
+            recipes : response.data.recipe
+          }
+        }
+      }).mount('#recipes');
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
+  </script>
 </head>
 <body>
   <table id="recipes">

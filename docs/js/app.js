@@ -1,6 +1,7 @@
-const recipeUrl = 'https://ysyk-hara.github.io/dragon-wing-inn-recipe/json/cookingRecipes.json';
+const recipeUrl = '../json/cookingRecipes.json';
 axios.get(recipeUrl)
   .then(function (response) {
+    console.log('type : ' + response.data.type);
     Vue.createApp({
       data() {
         return {
@@ -11,5 +12,11 @@ axios.get(recipeUrl)
     }).mount('#recipes');
   })
   .catch(function (error) {
-    console.log(error);
+    console.log('type : error');
+      data() {
+        return {
+          type : 'error',
+          recipes : []
+        }
+      }.mount('#recipes');
   });
